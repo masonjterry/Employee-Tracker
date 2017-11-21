@@ -1,0 +1,51 @@
+.jumbotron {
+  background-color: aliceblue;
+  background-image: url("http://sinamiq.net/wp-content/uploads/2017/05/about_us-banner.jpg");
+  background-size: 1500px;
+}
+
+
+
+
+  #containStyle {
+  border-style: solid;
+  border-color: lightgray;
+  border-width: 6px;
+  margin: 6px;
+  padding: 6px;
+}
+
+#rowStyle {
+/*  height: 200px;
+*/  border-style: solid;
+  border-color: lightgray;
+  border-width: 2px;
+  margin: 0px;
+  padding: 18px;
+}
+
+#columnStyle {
+/*  height: 50px;
+*/  border-style: solid;
+  border-color: lightgray;
+  border-width: 1px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+  padding: 6px;
+    justify-content: space-between;
+  display: flex;
+    width: 98%
+
+}
+
+#spanStyle {
+  border-style: solid;
+  border-color: lightgray;
+  border-width: 0.5px;
+  margin: 2px;
+  padding: 2px;
+}
+
+h2{
+  font-size: 18px;
+}
